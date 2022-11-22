@@ -1,4 +1,4 @@
-[![HOONY's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/HOONY-LEE/github-readme-stats) <br>
+[![HOONY's github stats](https://github-readme-stats.vercel.app/api?username=HOONY-LEE&show_icons=true&theme=radical)](https://github.com/HOONY-LEE/github-readme-stats) <br>
 
 <!--
 [![](https://raw.githubusercontent.com/HOONY-LEE/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/HOONY-LEE) [![](https://raw.githubusercontent.com/HOONY-LEE/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/HOONY-LEE)
