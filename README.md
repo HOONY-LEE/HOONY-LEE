@@ -1,12 +1,12 @@
 [![HOONY's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/HOONY-LEE/github-readme-stats) <br>
 
 <!--
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/gyoogle) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/gyoogle)
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/gyoogle) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/gyoogle)
+[![](https://raw.githubusercontent.com/HOONY-LEE/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/HOONY-LEE) [![](https://raw.githubusercontent.com/HOONY-LEE/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/HOONY-LEE)
+[![](https://raw.githubusercontent.com/HOONY-LEE/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/HOONY-LEE) [![](https://raw.githubusercontent.com/HOONY-LEE/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/HOONY-LEE)
 
-[![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/gyoogle/github-readme-stats)
+[![HOONY-LEE's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/HOONY-LEE/github-readme-stats)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gyoogle&theme=onedark)](https://github.com/gyoogle/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HOONY-LEE&theme=onedark)](https://github.com/HOONY-LEE/github-profile-trophy)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim6394)](https://solved.ac/kim6394)
