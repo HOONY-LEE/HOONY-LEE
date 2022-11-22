@@ -12,15 +12,21 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim6394)](https://solved.ac/kim6394)
 -->
 
-📫 : leesh940312@gmail.com  <br>
-📝 : https://sundaykidz.tistory.com/
+📫 EMAIL : leesh940312@gmail.com  <br>
+📝BLOG : https://sundaykidz.tistory.com/  <br>
+📝NOTION : https://sundaykidz.tistory.com/ <br>  
+
+### Education
+- Konkuk University Human ICT / Chinese Languages 
 
 ### Career
 
-- 2022.07 ~ 2022.11 : Samsung Software Academy For Youth 9st
-- 2020.03 ~ 2022.10 : Samsung Electronics Device Solutions Test and System Package Software Engineer
-- 2022.11 ~ : Samsung Electronics Device Solutions People Team Software Engineer
-
+- 2022.07 ~ 2022.11 : Samsung Software Academy For Youth 8st
+- 2022.05 ~ 2022.08 : HOME&MOVE PM
+- 2021.01 ~ 2022.04 : OP.GG Software Engineer
+- 2021.08 ~ 2022.01 : CODESTATES BOOTCAMP
+- 2020.11 ~ 2021.07 : SUPERPLAY Inc. Marketing Manager
+- 2017.08 ~ 2018.03 : Activision Shanghai QC
 <br>
   
 <div align=center>
