@@ -13,8 +13,8 @@
 -->
 
 📫 EMAIL : leesh940312@gmail.com  <br>
-📝Worldy : https://k8a507.p.ssafy.io/  <br>
-📝NOTION : https://www.notion.so/SUNGHOON-LEE-265c6bf0c26144d7a66e2c904494bc58 <br>  
+📝NOTION : https://www.notion.so/SUNGHOON-LEE-265c6bf0c26144d7a66e2c904494bc58 <br>
+[ 📝Worldy : https://k8a507.p.ssafy.io/  ]  <<< 지금 바로 플레이 해보세요.<br>
 
 ### Education
 - Konkuk University Human ICT / Chinese Languages 
