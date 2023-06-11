@@ -15,14 +15,13 @@
 📫 EMAIL : leesh940312@gmail.com  <br>
 📝NOTION : https://www.notion.so/SUNGHOON-LEE-265c6bf0c26144d7a66e2c904494bc58 <br><br>
 
-📝Worldy : https://k8a507.p.ssafy.io/   <<< 🎲월디게임 오픈 베타🎲 : 지금 바로 플레이 해보세요!!<br>
 
 ### Education
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
 
-- 2022.07 ~ 2022.11 : Samsung Software Academy For Youth 8st
+- 2022.07 ~ 2023.06 : Samsung Software Academy For Youth 8st
 - 2022.05 ~ 2022.08 : HOME&MOVE PM
 - 2021.08 ~ 2022.01 : CODESTATES BOOTCAMP
 - 2020.11 ~ 2021.07 : SUPERPLAY Inc. Marketing Manager
