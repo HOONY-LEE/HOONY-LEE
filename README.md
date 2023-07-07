@@ -23,7 +23,7 @@
 
 - 2022.07 ~ 2023.06 : Samsung Software Academy For Youth 8st
 - 2022.05 ~ 2022.08 : HOME&MOVE PM
-- 2021.08 ~ 2022.01 : CODESTATES BOOTCAMP
+- 2021.08 ~ 2022.01 : CODESTATES BOOTCAMP ㅎ
 - 2020.11 ~ 2021.07 : SUPERPLAY Inc. Marketing Manager
 - 2017.08 ~ 2018.03 : Activision Shanghai QC
 <br>
