@@ -16,7 +16,7 @@
 📝NOTION : https://www.notion.so/SUNGHOON-LEE-265c6bf0c26144d7a66e2c904494bc58 <br><br>
 
 
-### Education
+### Educationd
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
