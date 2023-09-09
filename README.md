@@ -20,7 +20,7 @@
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
-
+- 2023.09 ~ : TmaxOffice Frontend Engineer
 - 2022.07 ~ 2023.06 : Samsung Software Academy For Youth 8st
 - 2022.05 ~ 2022.08 : HOME&MOVE PM
 - 2021.08 ~ 2022.01 : CODESTATES BOOTCAMP 
