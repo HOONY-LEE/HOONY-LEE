@@ -13,7 +13,7 @@
 -->
 
 📫 EMAIL : leesh940312@gmail.com  <br>
-📝NOTION : https://www.notion.so/SUNGHOON-LEE-265c6bf0c26144d7a66e2c904494bc58 <br><br>
+
 
 
 ### Educationd
