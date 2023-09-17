@@ -14,7 +14,7 @@
 
 📫 EMAIL : leesh940312@gmail.com  <br>
 
-
+sd
 
 ### Educationd
 - Konkuk University Human ICT / Chinese Languages 
