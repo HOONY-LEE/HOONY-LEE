@@ -13,7 +13,7 @@
 -->
 
 📫 EMAIL : leesh940312@gmail.com  <br>
-2
+
 
 ### Education
 - Konkuk University Human ICT / Chinese Languages 
