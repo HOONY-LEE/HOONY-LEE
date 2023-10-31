@@ -6,11 +6,12 @@ Frontend Software Engineer && UX/UI Desginer
 
 
 ### Education
-- Konkuk University Human ICT / Chinese Languages 
 - Samsung Software Academy For Youth 8st
+- Konkuk University Human ICT / Chinese Languages 
+
 ### Career
 - 2023 - now : TmaxOffice Frontend Engineer
-- 2022 - 2022 : Tongin Group HOME&MOVE PM 
+- 2022 - 2023 : Tongin Group HOME&MOVE PM 
 - 2020 - 2021 : SUPERPLAY Inc. Marketing Manager
 - 2017 - 2018 : Activision Shanghai Studio Internship
 <br>
