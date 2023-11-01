@@ -3,7 +3,6 @@ Frontend Software Engineer && UX/UI Desginer
 - TypeScript
 - Redux
 - MobX
-- Vanilla JS
 - Firebase
 
 
