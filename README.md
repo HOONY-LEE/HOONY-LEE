@@ -1,8 +1,10 @@
 Frontend Software Engineer && UX/UI Desginer
 - React.js
+- TypeScript
 - Redux
 - MobX
 - Vanilla JS
+- Firebase
 
 
 ### Education
