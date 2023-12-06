@@ -4,7 +4,7 @@ Frontend Software Engineer && UX/UI Desginer
 - Redux
 - MobX
 - Firebase
-   
+    
 
 ### Education
 - Samsung Software Academy For Youth 8st
