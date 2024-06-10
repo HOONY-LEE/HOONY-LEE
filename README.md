@@ -2,7 +2,7 @@ Frontend Software Engineer && UX/UI Desginer
 - React.js 
 - TypeScript 
 - Redux
-- MobX
+- MobX 
 - Firebase
        
 
