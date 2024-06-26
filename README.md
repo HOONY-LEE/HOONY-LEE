@@ -2,8 +2,9 @@ Frontend Software Engineer && UX/UI Desginer
 - React.js 
 - TypeScript 
 - Redux
-- MobX 
-- Firebase
+- MobX
+- Spring
+- Node.js
        
 
 ### Education
@@ -11,7 +12,7 @@ Frontend Software Engineer && UX/UI Desginer
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
-- 2023 - now : TmaxGAIA Frontend Engineer
+- 2023 - now : TmaxGAIA Frontend Engineer / SIRUSOFT CEO
 - 2022 - 2023 : 통인그룹 전자계약시스템 총괄 PM 
 - 2020 - 2021 : SUPERPLAY Inc. Marketing Manager
 - 2017 - 2018 : Activision Shanghai Studio Internship
