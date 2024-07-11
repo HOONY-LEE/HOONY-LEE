@@ -12,8 +12,8 @@ Frontend Software Engineer && UX/UI Desginer
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
-- 2023 - now : TmaxGAIA Frontend Engineer / SIRUSOFT CEO
-- 2022 - 2023 : 통인그룹 전자계약시스템 총괄 PM 
+- 2023 - now : TmaxGAIA Frontend Engineer
+- 2022 - 2023 : Tongin inc 전자계약시스템 PM 
 - 2020 - 2021 : SUPERPLAY Inc. Marketing Manager
 - 2017 - 2018 : Activision Shanghai Studio Internship
 <br>
