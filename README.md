@@ -5,7 +5,7 @@ Frontend Software Engineer && UX/UI Desginer
 - MobX
 - Spring
 - Node.js
-       
+         
 
 ### Education
 - Samsung Software Academy For Youth 8st
