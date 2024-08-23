@@ -13,7 +13,7 @@ Frontend Software Engineer && UX/UI Desginer
 
 ### Career
 - 2023 - now : TmaxGAIA Frontend Engineer
-- 2022 - 2023 : Tongin inc 전자계약시스템 PM 
+- 2022 - 2023 : Tongin inc ProjectManager
 - 2020 - 2021 : SUPERPLAY Inc. Marketing Manager
 - 2017 - 2018 : Activision Shanghai Studio Internship
 <br>
