@@ -3,7 +3,7 @@ Frontend Software Engineer && UX/UI Desginer
 - TypeScript 
 - Redux
 - MobX
-- Spring
+- Spring 
 - Node.js
          
 
