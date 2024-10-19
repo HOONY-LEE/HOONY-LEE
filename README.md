@@ -4,7 +4,7 @@ Frontend Software Engineer && UX/UI Desginer
 - Redux
 - MobX
 - Spring 
-- Node.js
+- Node.js 
          
 
 ### Education
