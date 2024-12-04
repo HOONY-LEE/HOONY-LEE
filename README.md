@@ -12,9 +12,8 @@ Frontend Software Engineer && UX/UI Desginer
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
-- 2023 - now : TmaxGAIA Frontend Engineer
-- 2022 - 2023 : Tongin inc ProjectManager
-- 2020 - 2021 : SUPERPLAY Inc. Marketing Manager
+- 2023 - 2024 : TmaxGAIA Frontend Engineer
+- 2021 - 2023 : Tongin inc ProjectManager
 - 2017 - 2018 : Activision Shanghai Studio Internship
 <br>
  
