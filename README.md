@@ -1,7 +1,8 @@
 Frontend Software Engineer && UX/UI Desginer
 - React.js 
-- TypeScript 
-- Redux
+- TypeScript
+- Nest.js
+- Recoil
 - MobX
 - Spring 
 - Node.js 
