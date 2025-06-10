@@ -13,6 +13,8 @@ Frontend Software Engineer && UX/UI Desginer
 - Konkuk University Human ICT / Chinese Languages 
 
 ### Career
+- 2025 - now : Akron PM
+- 2024 - 2025 : Deepauto AI Product Engineer
 - 2022 - 2024 : TmaxGAIA Frontend Engineer
 - 2021 - 2022 : Tongin inc ProjectManager
 - 2017 - 2018 : Activision Shanghai Studio Internship
