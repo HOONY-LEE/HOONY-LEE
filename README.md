@@ -7,7 +7,7 @@ Frontend Software Engineer && UX/UI Desginer
 - Spring 
 - Node.js 
          
-
+    
 ### Education
 - Samsung Software Academy For Youth 8st
 - Konkuk University Human ICT / Chinese Languages 
